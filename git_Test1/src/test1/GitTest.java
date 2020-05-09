@@ -6,4 +6,9 @@ public class GitTest {
         System.out.println("git test");
         System.out.println("git test");
     }
+
+    public int count(){
+        int i = 10;
+        return i+1;
+    }
 }
